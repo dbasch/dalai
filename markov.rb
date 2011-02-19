@@ -5,7 +5,7 @@
     # http://www.invisible.ch
     # 
 
-require "YAML"
+#require "YAML"
 
 class Array
   # return a random element of the array, similar to random.choice in python
