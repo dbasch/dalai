@@ -1,5 +1,4 @@
 require 'sinatra'
-require './markov'
 
 get '/' do
     "hello"
